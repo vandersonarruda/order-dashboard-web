@@ -4,7 +4,7 @@ import { Outlet } from 'react-router-dom'
 export function AppLayout() {
   return (
     <div>
-      <Helmet title="Dashboard" />
+      <Helmet title="Home" />
       <h1>Header APP</h1>
 
       <div>
